@@ -1,0 +1,8 @@
+name: japanese_mode
+author: AstrBot Developer
+desc: 日语输出模式 - 让 AI 用日语回复，末尾附中文翻译。动作描写保持中文。
+display_name: 日语模式
+short_desc: AI 用日语回复 + 中文翻译
+version: "1.0.0"
+repo: https://github.com/Lumin3332/astrbot-plugin-japanese-mode
+astrbot_version: ">=4.16.0"

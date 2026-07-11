@@ -1,0 +1,6 @@
+{
+  "metadata": {
+    "display_name": "Japanese Mode",
+    "desc": "Makes the AI reply in Japanese with Chinese translation at the end. Action descriptions remain in Chinese. Enabled by default, toggleable per session."
+  }
+}
